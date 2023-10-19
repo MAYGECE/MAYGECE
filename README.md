@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAYGECE
-- 👀 I’m interested in philosophy and logic.
-- 🌱 I’m currently learning 
+- 👀 I’m interested in philosophy, logic and programming.
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
